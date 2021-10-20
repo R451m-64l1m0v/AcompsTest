@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "MLXyr5wfmSRc82tVZ7S+2xchHlC+fIp0tXiMS00mDa3xpuB/8JGxbfm6lQ2MhFUjIzIyfoXRng4BZa3ZHF9FVw==",
+  "success": true,
+  "projectFilePath": "E:\\ucheb projects\\AcompsTest\\TestWork\\TestWork\\TestWork.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zakir0vT\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.11\\microsoft.aspnetcore.jsonpatch.5.0.11.nupkg.sha512",
+    "C:\\Users\\Zakir0vT\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\5.0.11\\microsoft.aspnetcore.mvc.newtonsoftjson.5.0.11.nupkg.sha512",
+    "C:\\Users\\Zakir0vT\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Zakir0vT\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Zakir0vT\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Zakir0vT\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Zakir0vT\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\Zakir0vT\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Zakir0vT\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Zakir0vT\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Zakir0vT\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
